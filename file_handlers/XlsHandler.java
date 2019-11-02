@@ -1,4 +1,4 @@
-package test;
+package test.file_handlers;
 
 import org.apache.poi.hssf.usermodel.*;
 import org.apache.poi.poifs.filesystem.POIFSFileSystem;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * This class executes read, write data to excel file
+ * This class executes reading, writing data to excel file
  */
 
 public class XlsHandler {
